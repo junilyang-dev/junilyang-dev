@@ -18,3 +18,4 @@
 junilyang-dev/junilyang-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img alt="junil`sgithub.gif" src="https://github.com/junilyang-dev/junilyang-dev/blob/main/junil%60sgithub.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
