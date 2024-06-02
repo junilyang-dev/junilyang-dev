@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--타이틀 부분-->
 <div align="center">
- <img alt="junil`sgithub.gif" src="https://github.com/junilyang-dev/junilyang-dev/blob/main/junil%60sgithub.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+ <img alt="Welcom to Junil`s GitHub.gif" src="https://github.com/junilyang-dev/junilyang-dev/blob/main/Welcom%20to%20Junil%60s%20GitHub.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 </div>
 
 <!--내용 부분-->
